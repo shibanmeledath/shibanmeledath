@@ -1,4 +1,4 @@
-<a href="https://github.com/shibanmeledath"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEU-j8H2rD4H-zJC1bysqoneBOmSb_n7bTdg&s" alt="MasterHead"></a>
+<a href="https://github.com/shibanmeledath"><img src="https://miro.medium.com/v2/resize:fit:833/1*FDvKZ3_UYcJ0hOJw_84uOA.png" alt="MasterHead"></a>
 <h1 align="center">Hi 👋, I'm Shiban m</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
