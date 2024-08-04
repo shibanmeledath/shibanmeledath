@@ -21,7 +21,7 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on an [Academic Advisor ChatBot](https://github.com/MAIN-PROJECT-2023/Interface).
+- 🔭 I’m currently working on a [React project](https://github.com/shibanmeledath/Corfoc).
 - 🌱 Currently learning **Flutter** and **Python-Tensorflow**.
 - 💬 Ask me about **Front-End Development** and **Flutter**.
 - 📫 Reach me at: [2000.shiban@gmail.com](mailto:2000.shiban@gmail.com).
