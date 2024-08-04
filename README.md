@@ -22,8 +22,8 @@
 ## 🚀 About Me
 
 - 🔭 I’m currently working on a [React project](https://github.com/shibanmeledath/Corfoc).
-- 🌱 Currently learning **Flutter** and **Python-Tensorflow**.
-- 💬 Ask me about **Front-End Development** and **Flutter**.
+- 🌱 Currently learning **React Js** and **Tailwind CSS**.
+- 💬 Ask me about **React Js** and **Python Flask**.
 - 📫 Reach me at: [2000.shiban@gmail.com](mailto:2000.shiban@gmail.com).
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/shibanmeledath).
 
