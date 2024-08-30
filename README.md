@@ -22,7 +22,7 @@
 ## 🚀 About Me
 
 - 🔭 I’m currently working on a [React project](https://github.com/shibanmeledath/Corfoc).
-- 🌱 Currently learning **React Js** and **Tailwind CSS**.
+- 🌱 Currently learning **React Js** and **ASP.Net Core**.
 - 💬 Ask me about **React Js** and **Python Flask**.
 - 📫 Reach me at: [2000.shiban@gmail.com](mailto:2000.shiban@gmail.com).
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/shibanmeledath).
