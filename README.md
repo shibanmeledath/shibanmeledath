@@ -79,6 +79,7 @@ I'm a passionate **Frontend Developer** with a strong interest in building user-
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core">
 </p>
 
 ### Databases
@@ -91,7 +92,7 @@ I'm a passionate **Frontend Developer** with a strong interest in building user-
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku">
+  <img src="https://img.shields.io/badge/Visual_Studio_2022-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio 2022">
 </p>
 
 ---
@@ -117,35 +118,7 @@ I'm a passionate **Frontend Developer** with a strong interest in building user-
 
 ---
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How to Build a Responsive Navbar with React](https://example.com)
-- [Getting Started with Flask: A Beginner's Guide](https://example.com)
-- [Top 5 Tools for Frontend Developers in 2023](https://example.com)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 🎯 Projects
-
-### [Corfoc](https://github.com/shibanmeledath/Corfoc)
-A React-based project for managing and organizing tasks efficiently.
-
-### [Flask Blog](https://github.com/shibanmeledath/flask-blog)
-A simple blog application built using Python Flask and MongoDB.
-
----
-
-## 💡 Fun Fact
-
-I once solved a Rubik's Cube in under 2 minutes! 🎲
-
----
-
 <p align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
   <em><b>Let's connect and build something amazing together!</b></em>
 </p>
-
----
