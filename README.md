@@ -103,7 +103,8 @@ I'm a passionate **Frontend Developer** with a strong interest in building user-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shibanmeledath&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shibanmeledath&theme=radical" alt="GitHub Streak" width="48%">
+<img src="https://streak-stats.demolab.com?user=shibanmeledath&theme=radical" alt="GitHub Streak" width="48%">
+
 </p>
 
 <p align="center">
