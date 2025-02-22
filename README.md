@@ -125,3 +125,36 @@ I'm a passionate **Frontend Developer** with a strong interest in building user-
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
   <em><b>Let's connect and build something amazing together!</b></em>
 </p>
+
+---
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [How to Build a Responsive Navbar with React](https://example.com)
+- [Getting Started with Flask: A Beginner's Guide](https://example.com)
+- [Top 5 Tools for Frontend Developers in 2023](https://example.com)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🎯 Projects
+
+### [Corfoc](https://github.com/shibanmeledath/Corfoc)
+A React-based project for managing and organizing tasks efficiently.
+
+### [Flask Blog](https://github.com/shibanmeledath/flask-blog)
+A simple blog application built using Python Flask and MongoDB.
+
+---
+
+## 💡 Fun Fact
+
+I once solved a Rubik's Cube in under 2 minutes! 🎲
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+  <em><b>Let's connect and build something amazing together!</b></em>
+</p>
+
